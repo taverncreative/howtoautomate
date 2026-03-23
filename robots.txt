@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://howtoautomatemybusiness.co.uk/sitemap.xml
